@@ -1,0 +1,15 @@
+body {
+    background-color: lightgrey;
+}
+h1   {color: maroon;
+    font-family: verdana;
+
+}
+
+li{font-family: verdana;}
+p {
+    text-align: left;
+    margin-left: 1in;
+    margin-right: 1in;
+    color: darkgoldenrod;
+}
